@@ -25,8 +25,8 @@ Welcome to the Brain Tumor Detection project! This repository provides a deep le
 ## Installation
 1. Clone this repository:
    ```
-   git clone https://github.com/virajcreates/brain-tumor-detection.git
-   cd brain-tumor-detection
+   git clone https://github.com/Virajcreates/BT-Detection.git
+   cd BT-Detection
    ```
 2. Install the required libraries:
    ```
